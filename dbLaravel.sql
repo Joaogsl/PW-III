@@ -59,9 +59,9 @@ insert into tbCategoria values(null, "Saude");
 insert into tbCategoria values(null, "Brinquedo");
 insert into tbCategoria values(null, "Alimentação");
 
-insert into tbProduto values(null, null,"Cookie", 400);
-insert into tbProduto values(null, null,"Bengué", 140);
-insert into tbProduto values(null, null,"Hot wheels", 1200);
+insert into tbProduto values(null, 3,"Cookie", 400);
+insert into tbProduto values(null, 1,"Bengué", 140);
+insert into tbProduto values(null, 2,"Hot wheels", 1200);
 
 insert into tbcontato values(null,
 'Ana',
