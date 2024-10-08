@@ -1,4 +1,3 @@
-Site feito em Laravel(php) para a matéria de Programação Web III
 
 
 //Volta um diretório - cd..
