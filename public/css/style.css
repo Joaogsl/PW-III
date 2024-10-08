@@ -1,0 +1,53 @@
+html, body {
+    background-color: rgb(194, 217, 255);
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+    margin-bottom: 5%;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu1 {
+    margin-top:3%;
+    margin-left:29%;
+}
+
+.m-b-md1 {
+    margin-top: 80px;
+}
+#hm{
+    color: #ffffff;
+    font-weight: bold;
+    box-shadow: #ffffff;
+}
+img{
+    margin-top: 200px;
+    margin-bottom: -14%;
+    border-radius: 15%;
+    width: 20%;     
+}
+
+footer{
+    background-color: rgb(173, 204, 253);
+    margin-top: 495px;
+    text-align: center;
+}
